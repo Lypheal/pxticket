@@ -71,6 +71,7 @@ export const StyledLogo = styled.img`
     width: 300px;
   }
   transition: width 0.5s;
+  shape: rectangle;
   transition: height 0.5s;
 `;
 
