@@ -371,8 +371,7 @@ function App() {
           <s.SpacerLarge />
         </ResponsiveWrapper>
         <s.SpacerMedium />
-        <ResponsiveWrapper flex={1} style={{padding:24}} test>
-        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+        <s.Container jc={"center"} ai={"center"} style={{ backgroundColor:"var(--accent)", padding:24, borderRadius: 24, border:"4px dashed var(--secondary)", boxShadow: "0px 5px 11px 2px rgb(0,0,0,0.7)" }}>
           <s.TextDescription
             style={{
               textAlign: "center",
@@ -395,7 +394,6 @@ function App() {
             gas limit.
           </s.TextDescription>
         </s.Container>
-        </ResponsiveWrapper>
       </s.Container>
     </s.Screen>
   );
