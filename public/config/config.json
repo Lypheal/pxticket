@@ -14,5 +14,5 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/pixelticket",
-  "SHOW_BACKGROUND": false
+  "SHOW_BACKGROUND": true
 }
