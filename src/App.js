@@ -370,7 +370,6 @@ function App() {
           </s.Container>
           <s.SpacerLarge />
         </ResponsiveWrapper>
-        <s.SpacerMedium />
       </s.Container>
     </s.Screen>
   );
