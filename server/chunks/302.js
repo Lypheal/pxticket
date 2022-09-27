@@ -117,7 +117,7 @@ const Section = ({ children , delay =0  })=>/*#__PURE__*/ react_jsx_runtime__WEB
             delay
         },
         mb: 6,
-        children: children
+        /*#__PURE__*/ children: children
     })
 ;
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Section);
